@@ -1,0 +1,8 @@
+ player name = milos
+total points= 7
+player name = milos
+total points= 8
+player name = milos
+total points of 10= 7
+player name = milos
+total points of 10= 5
